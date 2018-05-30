@@ -1,0 +1,14 @@
+c:\users\samantha\source\repos\WindowsApp3\WindowsApp3\bin\Debug\WindowsApp3.exe.config
+c:\users\samantha\source\repos\WindowsApp3\WindowsApp3\bin\Debug\WindowsApp3.exe
+c:\users\samantha\source\repos\WindowsApp3\WindowsApp3\bin\Debug\WindowsApp3.pdb
+c:\users\samantha\source\repos\WindowsApp3\WindowsApp3\bin\Debug\WindowsApp3.xml
+c:\users\samantha\source\repos\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.vbprojResolveAssemblyReference.cache
+c:\users\samantha\source\repos\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.Form1.resources
+c:\users\samantha\source\repos\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.Resources.resources
+c:\users\samantha\source\repos\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.myBox.resources
+c:\users\samantha\source\repos\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.vbproj.GenerateResource.Cache
+c:\users\samantha\source\repos\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.vbproj.CoreCompileInputs.cache
+c:\users\samantha\source\repos\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.exe
+c:\users\samantha\source\repos\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.xml
+c:\users\samantha\source\repos\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.pdb
+C:\Users\Samantha\source\repos\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.helpForm.resources

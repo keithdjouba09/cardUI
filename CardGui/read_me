@@ -1,0 +1,51 @@
+Name: 						Keith Djouba
+Program Due Date: 			December 10, 2017
+Platform: 					Microsoft Windows 10, Visual Studio 2017 Community
+
+Special Steps to compile: 	No Special Steps Needed
+
+Design Patterns I Utilized:
+
+							2) Pattern #9: Prospective Memory
+								The program asks for confirmations when user clicks quit before the file has been saved.
+
+							3) Pattern #10: Streamlined Repetition
+								The program remembers where the last location of file dialog when save.
+
+							4) Pattern #12: Other People's Advice
+								This program has been given feedback by at least 2 people.
+
+							5) Pattern #19: Intriguing Branches
+								The program has help button to open help window which will explain features and "how to" questions.
+
+
+
+Bugs My Program Has: 		1) no even number of each type of card is stored
+                        2) when selecting "Gray" the user cannot go back to "Olive" when selecting the back of the colors
+
+Brief Summery of Approach:
+
+  - Designing The User Interface
+  - Positioned all the Panels (selcting Card Back)
+  - position Radio Buttons
+  - position buttons (Save, Quit, Help)
+  - Create User Control
+
+- setting Quit Button
+    - asks for confirmations when user clicks quit before the file has been saved.
+    - add Application.Exit() to close the program
+
+- setting radio buttons
+    -  add Olive buttons and create an event
+    - add Gray buttons and create an event
+    - add Image buttons and create an event
+    - add an Image groupBox
+    - link the card back radio buttons to Panel
+
+- setting "save" button
+    -  create event
+    -  checked all the radio Buttons
+    -  write them to file by using saveDialog()
+
+- Setting User Controls
+    - add class argument (image or color)
